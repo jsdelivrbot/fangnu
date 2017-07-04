@@ -1,5 +1,5 @@
 
-# fangnu
+# fangnu <img src="https://api.travis-ci.org/huangruichang/fangnu.svg?branch=master"/>
 房贷计算器命令行工具。
 
 # Screenshot

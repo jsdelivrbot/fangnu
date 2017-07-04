@@ -23,5 +23,5 @@ fangnu
 [MIT][2]
 
 
-  [1]: https://github.com/huangruichang/fangnu/blob/master/assets/fangnu.gif
+  [1]: https://cdn.rawgit.com/huangruichang/fangnu/332318ba/assets/fangnu.gif
   [2]: http://opensource.org/licenses/MIT

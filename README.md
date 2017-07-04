@@ -1,10 +1,10 @@
 
-# fangnu <img src="https://api.travis-ci.org/huangruichang/fangnu.svg?branch=master"/>
+# fangnu [![fangnu][1]](https://travis-ci.org/huangruichang/fangnu)
 房贷计算器命令行工具。
 
 # Screenshot
 
-![fangnu][1]
+![fangnu][2]
 
 
 # Installation
@@ -20,8 +20,9 @@ fangnu
 
 # License
 
-[MIT][2]
+[MIT][3]
 
 
-  [1]: https://cdn.rawgit.com/huangruichang/fangnu/332318ba/assets/fangnu.gif
-  [2]: http://opensource.org/licenses/MIT
+  [1]: https://api.travis-ci.org/huangruichang/fangnu.svg?branch=master
+  [2]: https://cdn.rawgit.com/huangruichang/fangnu/332318ba/assets/fangnu.gif
+  [3]: http://opensource.org/licenses/MIT

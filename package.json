@@ -1,6 +1,6 @@
 {
   "name": "fangnu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "房贷计算器",
   "main": "index.js",
   "scripts": {

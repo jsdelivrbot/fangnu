@@ -1,0 +1,36 @@
+{
+  "name": "fangnu",
+  "version": "0.0.1",
+  "description": "房贷计算器",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "huangruichang",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^3.1.1"
+  },
+  "bin": {
+    "fangnu": "bin/fangnu"
+  },
+  "bugs": {
+    "url": "https://github.com/huangruichang/fangnu/issues"
+  },
+  "homepage": "https://github.com/huangruichang/fangnu#readme",
+  "keywords": [
+    "cli",
+    "房贷"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangruichang/fangnu.git"
+  },
+  "devDependencies": {
+    "ava": "^0.20.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}

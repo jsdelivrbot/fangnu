@@ -24,5 +24,5 @@ fangnu
 
 
   [1]: https://api.travis-ci.org/huangruichang/fangnu.svg?branch=master
-  [2]: https://cdn.rawgit.com/huangruichang/fangnu/332318ba/assets/fangnu.gif
+  [2]: https://cdn.jsdelivr.net/gh/huangruichang/fangnu@332318ba/assets/fangnu.gif
   [3]: http://opensource.org/licenses/MIT
